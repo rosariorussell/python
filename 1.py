@@ -16,10 +16,11 @@ len('funny')
 print("Hello World")
 
 
-# def func(x):
-#     return 'the value'
-# print(func(4).len)
+def func(x):
+    return 'the value'
+print(func(4).len)
 
 print("HI".__len__())
 
 
+# todo
